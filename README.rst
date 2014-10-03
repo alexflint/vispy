@@ -1,5 +1,6 @@
 Vispy: interactive scientific visualization in Python
 -----------------------------------------------------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/alexflint/vispy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Main website: http://vispy.org
 
